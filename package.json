@@ -1,0 +1,13 @@
+{
+  "name": "hubot-us-federal-holidays",
+  "version": "1.0.0",
+  "description": "Get the next US federal holiday",
+  "main": "index.coffee",
+  "keywords": [
+    "hubot",
+    "hubot-scripts",
+    "holiday-federal"
+  ],
+  "author": "Greg Walker <michael.walker@gsa.gov>",
+  "license": "CC0-1.0"
+}
